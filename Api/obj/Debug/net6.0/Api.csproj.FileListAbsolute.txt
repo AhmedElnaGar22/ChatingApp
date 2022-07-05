@@ -62,3 +62,5 @@ D:\Tasks\DatingApp\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Wi
 D:\Tasks\DatingApp\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 D:\Tasks\DatingApp\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Tasks\DatingApp\Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Tasks\DatingApp\Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Tasks\DatingApp\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
